@@ -22,6 +22,9 @@ Screenshot of application in action
 
 ![image](https://user-images.githubusercontent.com/123092979/234153799-ea70a759-03a7-48b9-8726-ab0292ef6abf.png)
 
+Deployment link on heroku.
+https://the-note-taker-11.herokuapp.com/
+
 ## Credits
 
 Github, YouTube as always.
