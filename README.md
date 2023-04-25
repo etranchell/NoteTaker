@@ -20,7 +20,8 @@ Click get started, enter title of notes you want to take, then type out the note
 
 Screenshot of application in action
 
-![image](https://user-images.githubusercontent.com/123092979/234153799-ea70a759-03a7-48b9-8726-ab0292ef6abf.png)
+![image](https://user-images.githubusercontent.com/123092979/234159430-b1e44b2e-a2f7-496b-a2b8-5fed6149c27d.png)
+
 
 Deployment link on heroku.
 https://the-note-taker-11.herokuapp.com/
