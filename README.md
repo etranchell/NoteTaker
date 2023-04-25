@@ -25,6 +25,11 @@ Screenshot of application in action
 Deployment link on heroku.
 https://the-note-taker-11.herokuapp.com/
 
+Video of app in action
+https://drive.google.com/file/d/14WVjP7RtWVRZwOI85RHRyU_NzcFvB16T/view
+
+
+
 ## Credits
 
 Github, YouTube as always.
